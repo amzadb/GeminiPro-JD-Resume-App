@@ -26,4 +26,5 @@ To use the application, follow the steps given below:
    streamlit run app.py
    ```
 
+![image](https://github.com/amzadb/GeminiPro-JD-Resume-App/assets/11292254/0986a9ed-0784-458f-8749-e26aa3cfe87c)
 
